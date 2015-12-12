@@ -1,18 +1,15 @@
 //
-//  MVCSample2UITests.m
-//  MVCSample2UITests
-//
-//  Created by 樽井　崇志 on 2015/11/28.
-//  Copyright © 2015年 takashi tarui. All rights reserved.
+//  MVCSampleUITests.m
+//  MVCSampleUITests
 //
 
 #import <XCTest/XCTest.h>
 
-@interface MVCSample2UITests : XCTestCase
+@interface MVCSampleUITests : XCTestCase
 
 @end
 
-@implementation MVCSample2UITests
+@implementation MVCSampleUITests
 
 - (void)setUp {
     [super setUp];

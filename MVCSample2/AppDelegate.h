@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
-//  MVCSample2
+//  MVCSample
 //
-//  Created by 樽井　崇志 on 2015/11/28.
+//  Created by tarui takashi on 2015/11/28.
 //  Copyright © 2015年 takashi tarui. All rights reserved.
 //
 
